@@ -1,7 +1,7 @@
 # Ant Colony Optimization for Omaha Bike Route Planning  
 **ISQA 8086: Special Topics in ISQA – Prescriptive Analytics**
 
-This repository contains a class project exploring the use of **Ant Colony Optimization (ACO)** as a prescriptive analytics method for improving bike route planning in the Omaha metro area. The project applies a custom ACO implementation to GIS-based trail data to identify efficient paths, evaluate route quality, and demonstrate how metaheuristic optimization can support urban planning decisions.
+This repository contains a class project exploring the use of **Ant Colony Optimization (ACO)** as a prescriptive analytics method for improving bike route planning in the Omaha metro area. The project applies a custom ACO implementation to GIS-based trail data to identify proposed trail segment expansions that are most optimal int erms of their connective value. 
 
 ---
 
